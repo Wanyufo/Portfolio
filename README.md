@@ -26,10 +26,9 @@ I dabble in the craft 3-dimensional illusion magic and here you will find a sele
 Recently, i have started a small private project with an artist friend of mine:  
 [KNOBBLY](https://github.com/Wanyufo/KNOBBEL), a WIP game where a small mouse works with a little girl to hunts bugs
 
-  
-===============================================================================
+=====================================================
 
 _I hope you have found your stay to be enjoyable!_  
 _Have a save journey!_
   
-(<img width="600" src="https://github.com/Wanyufo/Portfolio/assets/60277175/c6a1951a-0d0c-437c-bf02-a8d7bc215237" />)
+<img width="600" src="https://github.com/Wanyufo/Portfolio/assets/60277175/c6a1951a-0d0c-437c-bf02-a8d7bc215237" />
