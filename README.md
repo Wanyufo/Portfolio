@@ -22,7 +22,9 @@ I dabble in the craft 3-dimensional illusion magic and here you will find a sele
 
 [<img width="600" src="https://github.com/Wanyufo/Portfolio/assets/60277175/8884e327-1e3f-4b28-9aaf-a1f0a4495324" />](https://tube.switch.ch/videos/ILgG97qC6x)
 
-
+## Private Work
+[Miau Suika](https://wanyufo.itch.io/miausuika)
+In collaboration with an artist friend, I developed this Suika Game within 4 days.
 
 =====================================================
 
